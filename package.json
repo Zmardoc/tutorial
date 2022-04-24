@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "odevzdat": "commit.bat"
+    "odevzdat": "commit.bat",
+    "zacit-ulohu": "create-branch.bat"
   }
 }

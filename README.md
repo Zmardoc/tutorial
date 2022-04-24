@@ -1,2 +1,2 @@
-# Zadání
-blabla nejake zadani
+# Poznámky
+Tutoriálek https://www.w3schools.com/html/default.asp
